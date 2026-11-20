@@ -57,7 +57,7 @@ Avaliado em 300 imagens inéditas (150 com tumor e 150 sem tumor), o classificad
 
 ### Opção 2 — Execução via Código-Fonte (Python)
 ```bash
-git clone [https://github.com/paulorbr/GPT---Grading-Prediction-of-Tumors-.git](https://github.com/paulorbr/GPT---Grading-Prediction-of-Tumors-.git)
+git clone https://github.com/paulorbr/GPT---Grading-Prediction-of-Tumors-.git
 cd GPT---Grading-Prediction-of-Tumors-
 pip install -r requirements.txt
 python interface/app.py
