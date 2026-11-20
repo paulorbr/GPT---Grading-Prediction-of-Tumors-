@@ -1,0 +1,6 @@
+Treinamento/train/
+Treinamento/val/
+Treinamento/test/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

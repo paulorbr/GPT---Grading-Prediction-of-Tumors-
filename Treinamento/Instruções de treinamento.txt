@@ -1,0 +1,9 @@
+Instruções de treinamento da CNN:
+
+- verfique se possui python instalado.
+
+- Abra o arquivo "CNN.ipynb" em um ambinente que permita sua execução, pode ser o Google Colab ou o VS Code (usamos este para treinar).
+
+- Verifique o caminho do dataset no código para realizar o treinamento sem erros.
+
+- Use a opção de rodar todos os blocos e aguarde... pode demorar um pouco (algumas horas)😉.

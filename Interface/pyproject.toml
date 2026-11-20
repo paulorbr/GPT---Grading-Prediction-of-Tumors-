@@ -1,0 +1,14 @@
+[project]
+name = "gpt-ui"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "keras>=3.11.3",
+    "numpy>=2.3.3",
+    "pillow>=11.3.0",
+    "pyinstaller>=6.16.0",
+    "tensorflow>=2.20.0",
+    "ttkthemes>=3.2.2",
+]

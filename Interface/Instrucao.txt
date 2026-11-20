@@ -1,0 +1,7 @@
+Para rodar a interface, você precisará instalar as bibliotecas Pillow, ttkthemes, TensorFlow e NumPy. A biblioteca tkinter geralmente já vem com a instalação padrão do Python.
+
+Você pode instalar todas de uma vez com o seguinte comando no seu terminal:
+pip install Pillow ttkthemes tensorflow numpy
+
+Em seguida utilize o comando:
+python app.py
